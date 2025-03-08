@@ -272,6 +272,11 @@
                                     cq:styleId="1569448732502"
                                     cq:styleLabel="Gray"
                                     jcr:primaryType="nt:unstructured"/>
+                                          <item3
+                                    cq:styleClasses="cmp-title--orange"
+                                    cq:styleId="1569448732522"
+                                    cq:styleLabel="Orange"
+                                    jcr:primaryType="nt:unstructured"/>
                             </cq:styles>
                         </item1>
                     </cq:styleGroups>
